@@ -1,0 +1,4464 @@
+{
+  "updatedAt": "2026-09-24T05:04:51.058Z",
+  "totals": {
+    "views": 160,
+    "visitors": 50,
+    "days": 23,
+    "repositories": 50,
+    "lastDay": "2026-09-22"
+  },
+  "perRepository": [
+    {
+      "repository": "home-market",
+      "views": 27,
+      "visitors": 3
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "views": 23,
+      "visitors": 3
+    },
+    {
+      "repository": "escale-marketplace",
+      "views": 16,
+      "visitors": 4
+    },
+    {
+      "repository": "mystery-avatar",
+      "views": 16,
+      "visitors": 4
+    },
+    {
+      "repository": "guess-the-number",
+      "views": 11,
+      "visitors": 4
+    },
+    {
+      "repository": "factorytrack",
+      "views": 8,
+      "visitors": 4
+    },
+    {
+      "repository": "memo-board",
+      "views": 8,
+      "visitors": 3
+    },
+    {
+      "repository": "car-configurator",
+      "views": 7,
+      "visitors": 1
+    },
+    {
+      "repository": "equipment-rental",
+      "views": 7,
+      "visitors": 2
+    },
+    {
+      "repository": "LKBConvertor",
+      "views": 5,
+      "visitors": 4
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "views": 5,
+      "visitors": 2
+    },
+    {
+      "repository": "tandem-notes",
+      "views": 5,
+      "visitors": 2
+    },
+    {
+      "repository": "arthure-site",
+      "views": 3,
+      "visitors": 1
+    },
+    {
+      "repository": "dom-playground",
+      "views": 3,
+      "visitors": 2
+    },
+    {
+      "repository": "Arthure-code",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "form-validation",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "grade-manager",
+      "views": 2,
+      "visitors": 2
+    },
+    {
+      "repository": "green-harvest-coop",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "mix-and-match",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "quebec-forecast",
+      "views": 2,
+      "visitors": 2
+    },
+    {
+      "repository": "riddle-quest",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "dice-game",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "photo-slideshow",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "accessible-contact-form",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "views": 0,
+      "visitors": 0
+    }
+  ],
+  "days": [
+    {
+      "repository": "arthure-site",
+      "date": "2026-08-31",
+      "views": 3,
+      "visitors": 1
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-01",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-02",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-03",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-04",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-05",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-06",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-07",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-08",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-09",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-10",
+      "views": 2,
+      "visitors": 2
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-10",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-11",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-11",
+      "views": 3,
+      "visitors": 2
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-11",
+      "views": 6,
+      "visitors": 2
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-11",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-12",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "arthure-site",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-13",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-13",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-14",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-14",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-15",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-15",
+      "views": 4,
+      "visitors": 1
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-15",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-15",
+      "views": 4,
+      "visitors": 1
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-15",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-15",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-15",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-15",
+      "views": 22,
+      "visitors": 2
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-15",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-16",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-16",
+      "views": 5,
+      "visitors": 2
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-16",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-17",
+      "views": 7,
+      "visitors": 1
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-17",
+      "views": 3,
+      "visitors": 1
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-17",
+      "views": 14,
+      "visitors": 2
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-17",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-17",
+      "views": 3,
+      "visitors": 1
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-17",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-18",
+      "views": 4,
+      "visitors": 1
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-18",
+      "views": 6,
+      "visitors": 1
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-18",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-19",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-19",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-20",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-20",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-21",
+      "views": 5,
+      "visitors": 1
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-21",
+      "views": 2,
+      "visitors": 2
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-21",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-21",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-21",
+      "views": 3,
+      "visitors": 2
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-21",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-21",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-21",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-contact-form",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-signup-form",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "accessible-table-nav",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "Arthure-code",
+      "date": "2026-09-22",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "Arthure-code.github.io",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bookish-fishstick",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-components-page",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-signup-form",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "bootstrap-swiss-layout",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "car-configurator",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-fan-page",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "css-gradients-reference",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dice-game",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-basics",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-events",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-manipulation",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "dom-playground",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "equipment-rental",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "escale-marketplace",
+      "date": "2026-09-22",
+      "views": 10,
+      "visitors": 2
+    },
+    {
+      "repository": "factorytrack",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "flexbox-form-layout",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "form-validation",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grade-manager",
+      "date": "2026-09-22",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "green-harvest-coop",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "grocery-checklist",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "guess-the-number",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "home-market",
+      "date": "2026-09-22",
+      "views": 25,
+      "visitors": 2
+    },
+    {
+      "repository": "intro-css-lab",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "LKBConvertor",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "lorem-ipsum-grid",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "memo-board",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mix-and-match",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "month-calendar",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "mystery-avatar",
+      "date": "2026-09-22",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "name-list-formatter",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "object-to-localstorage",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "photo-slideshow",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "quebec-forecast",
+      "date": "2026-09-22",
+      "views": 1,
+      "visitors": 1
+    },
+    {
+      "repository": "random-card-draw",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-breakpoints-lab",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "responsive-recipe-grid",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "riddle-quest",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "seconds-converter",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "semantic-html-news",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "spoke-and-wheel-storefront",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "tandem-notes",
+      "date": "2026-09-22",
+      "views": 2,
+      "visitors": 1
+    },
+    {
+      "repository": "temperature-converter",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    },
+    {
+      "repository": "temperature-converter-cli",
+      "date": "2026-09-22",
+      "views": 0,
+      "visitors": 0
+    }
+  ]
+}
