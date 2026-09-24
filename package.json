@@ -4,9 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "start": "tsx scripts/run.ts",
+    "collect": "tsx scripts/collect-locally.ts",
     "typecheck": "tsc --noEmit",
-    "lint": "eslint .",
-    "collect": "tsx scripts/collect-locally.ts"
+    "lint": "eslint ."
   },
   "devDependencies": {
     "@eslint/js": "^9.37.0",
