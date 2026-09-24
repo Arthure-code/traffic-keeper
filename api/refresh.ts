@@ -14,12 +14,16 @@ export default async function refresh(request: VercelRequest, response: VercelRe
   const token = process.env.GITHUB_TOKEN;
   const owner = process.env.GITHUB_OWNER;
   const repository = process.env.GITHUB_REPOSITORY_NAME ?? 'traffic-keeper';
+  const readmeRepositories = (process.env.README_REPOSITORIES ?? repository)
+    .split(',')
+    .map((name) => name.trim())
+    .filter(Boolean);
   if (!token || !owner) {
     return response.status(500).json({ error: 'GITHUB_TOKEN and GITHUB_OWNER are required.' });
   }
 
   try {
-    const result = await run({ token, owner, repository });
+    const result = await run({ token, owner, repository, readmeRepositories });
     return response.status(200).json(result);
   } catch (error) {
     // The message never carries the token: it is read from the

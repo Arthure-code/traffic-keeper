@@ -4,12 +4,13 @@
 //
 //   GITHUB_TOKEN=... GITHUB_OWNER=... npm run collect
 
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { renderBadge } from '../src/badge.js';
 import { listRepositories, readViews } from '../src/github.js';
 import { byRepository, merge, totals, type DayRow } from '../src/history.js';
-import { BADGE_PATH, HISTORY_PATH } from '../src/collect.js';
+import { BADGE_PATH, HISTORY_PATH, README_PATH } from '../src/collect.js';
+import { buildBlock, updateBlock } from '../src/readme.js';
 
 const token = process.env.GITHUB_TOKEN;
 const owner = process.env.GITHUB_OWNER;
@@ -36,10 +37,16 @@ const file = {
   days,
 };
 
-for (const [path, content] of [
+const readme = await readFile(README_PATH, 'utf8').catch(() => '');
+const rewritten = updateBlock(readme, buildBlock(days, summary, new Date()));
+
+const written: (readonly [string, string])[] = [
   [HISTORY_PATH, `${JSON.stringify(file, null, 2)}\n`],
   [BADGE_PATH, renderBadge(summary)],
-] as const) {
+];
+if (rewritten !== readme) written.push([README_PATH, rewritten]);
+
+for (const [path, content] of written) {
   await mkdir(dirname(path), { recursive: true });
   await writeFile(path, content, 'utf8');
 }

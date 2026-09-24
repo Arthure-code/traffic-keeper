@@ -4,10 +4,12 @@
 import { renderBadge } from './badge.js';
 import { listRepositories, readViews } from './github.js';
 import { byRepository, merge, totals, type DayRow, type Totals } from './history.js';
+import { buildBlock, updateBlock } from './readme.js';
 import { readFile, writeFile } from './store.js';
 
 export const HISTORY_PATH = 'data/traffic.json';
 export const BADGE_PATH = 'data/badge.svg';
+export const README_PATH = 'README.md';
 
 export interface Settings {
   token: string;
@@ -15,6 +17,11 @@ export interface Settings {
   owner: string;
   /** Where the two files live, this project's own repository. */
   repository: string;
+  /**
+   * Repositories whose README carries the figures between the two
+   * markers. One without them is left untouched.
+   */
+  readmeRepositories?: string[];
 }
 
 export interface RunResult {
@@ -23,6 +30,8 @@ export interface RunResult {
   rowsAdded: number;
   /** False when nothing changed, in which case nothing was written. */
   written: boolean;
+  /** The repositories whose README was rewritten. */
+  readmesUpdated: string[];
 }
 
 interface HistoryFile {
@@ -40,6 +49,7 @@ function parse(text: string): DayRow[] {
 
 export async function run(settings: Settings, now = new Date()): Promise<RunResult> {
   const { token, owner, repository } = settings;
+  const readmeRepositories = settings.readmeRepositories ?? [repository];
 
   const names = await listRepositories(token, owner);
   const incoming: DayRow[] = [];
@@ -55,7 +65,13 @@ export async function run(settings: Settings, now = new Date()): Promise<RunResu
   const unchanged =
     days.length === previous.length && JSON.stringify(days) === JSON.stringify(previous);
   if (unchanged) {
-    return { totals: summary, repositoriesRead: names.length, rowsAdded: 0, written: false };
+    return {
+      totals: summary,
+      repositoriesRead: names.length,
+      rowsAdded: 0,
+      written: false,
+      readmesUpdated: [],
+    };
   }
 
   const file: HistoryFile = {
@@ -70,10 +86,21 @@ export async function run(settings: Settings, now = new Date()): Promise<RunResu
   const badge = await readFile(token, owner, repository, BADGE_PATH);
   await writeFile(token, owner, repository, BADGE_PATH, renderBadge(summary), badge.sha, message);
 
+  const block = buildBlock(days, summary, now);
+  const readmesUpdated: string[] = [];
+  for (const name of readmeRepositories) {
+    const readme = await readFile(token, owner, name, README_PATH);
+    const rewritten = updateBlock(readme.text, block);
+    if (rewritten === readme.text) continue;
+    await writeFile(token, owner, name, README_PATH, rewritten, readme.sha, message);
+    readmesUpdated.push(name);
+  }
+
   return {
     totals: summary,
     repositoriesRead: names.length,
     rowsAdded: days.length - previous.length,
     written: true,
+    readmesUpdated,
   };
 }

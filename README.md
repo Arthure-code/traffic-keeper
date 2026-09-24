@@ -4,12 +4,22 @@ Simple traffic counter for GitHub profiles and READMEs.
 
 ## Demo
 
-![github traffic](data/badge.svg)
+![repo views](data/badge.svg)
 
 ## Deploy
 
-Want this for your repositories? Deploy this repository to Vercel and add a
-GitHub token.
+Want this for your repositories?
+
+1. Fork this repository.
+2. Import your fork on Vercel.
+3. Create a GitHub token and add it on Vercel as `GITHUB_TOKEN`, with your
+   account name as `GITHUB_OWNER`.
+4. The daily schedule writes `data/badge.svg` back to your fork. Point at it
+   from any README:
+
+```markdown
+![repo views](https://raw.githubusercontent.com/OWNER/traffic-keeper/main/data/badge.svg)
+```
 
 ## Support
 
